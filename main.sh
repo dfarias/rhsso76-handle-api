@@ -1,6 +1,6 @@
 #!/bin/bash
 
-ARQUIVO=$1
+declare -r ARQUIVO=./results/get-client-scopes.json
 declare -r FILE_SCOPE_TO_ADD=./results/scope_to_add.json
 
 source ./load_sso_functions.sh
