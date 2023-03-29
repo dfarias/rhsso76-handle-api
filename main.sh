@@ -3,7 +3,7 @@
 ARQUIVO=$1
 declare -r FILE_SCOPE_TO_ADD=./results/scope_to_add.json
 
-source ./get_clients.sh
+source ./load_sso_functions.sh
 
 cp ${ARQUIVO} ${FILE_SCOPE_TO_ADD}
 
