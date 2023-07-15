@@ -1,17 +1,17 @@
 {
     "mappers": [
         {
-            "name": "BANESTES - client-role-mapper-lowercase",
+            "name": "CUSTOM_TYPE - client-role-mapper-lowercase",
             "fileName": "client-role-mapper-lowercase.js",
             "description": "client-role-mapper-lowercase"
         },
         {
-            "name": "BANESTES - client-role-mapper-scope",
+            "name": "CUSTOM_TYPE - client-role-mapper-scope",
             "fileName": "client-role-mapper-scope.js",
             "description": "client-role-mapper-scope"
         },
         {
-            "name": "BANESTES - client-role-mapper-sec-to-web",
+            "name": "CUSTOM_TYPE - client-role-mapper-sec-to-web",
             "fileName": "client-role-mapper-sec-to-web.js",
             "description": "client-role-mapper-sec-to-web"
         }

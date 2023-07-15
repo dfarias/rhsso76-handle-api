@@ -41,7 +41,7 @@ removeClientScopes(){
 }
 
 obterToken
-# createRealm banestes
+# createRealm cliente
 createClientsAndClientScopes
 getClientsByQuery
 getClientScopes

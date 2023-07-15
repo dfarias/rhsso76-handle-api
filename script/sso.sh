@@ -1,7 +1,7 @@
 #!/bin/bash
 
 HEADER=
-REALM_NAME=banestes
+REALM_NAME=cliente
 
 declare -r DEBUG=false
 declare -r USERNAME=admin # SSO username
