@@ -1,6 +1,6 @@
 #!/bin/bash
 
-podman run -rm --env-file=.env \
+podman run --rm --env-file=.env \
     --network sso \
     --name rhsso \
     -p 8080:8080 \
